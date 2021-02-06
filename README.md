@@ -6,7 +6,7 @@
   
   
 # web scraping using Basic Javascript on Chrome console 
-1) Go to the website you want to scrape
+1) Go to the assessment link you want to scrape
 2) Open the chrome console 
-3) Execute the Javascript queries provided in the file.
-Image: https://drive.google.com/file/d/1jtWq-6UAJ9xzLG8jh0DrZWWU69EO7JOv/view?usp=sharing
+3) Execute the Javascript CSS Selectors queries provided in the .TXT file on console folder..
+4) Output Image: https://drive.google.com/file/d/1jtWq-6UAJ9xzLG8jh0DrZWWU69EO7JOv/view?usp=sharing
