@@ -5,7 +5,7 @@ const puppeteer = require('puppeteer');
   let scrapeurl='https://prefeitura.pbh.gov.br/saude/licitacao/pregao-eletronico-151-2020#content';
   let browser = await puppeteer.launch({headless: false}); // default is true
   let page = await browser.newPage();
-  /* Go to the IMDB Movie page and wait for it to load */
+  
   await page.goto(scrapeurl, { waitUntil: 'networkidle2' });
   /* Run javascript inside of the page */
   let data = await page.evaluate(() => {
