@@ -1,5 +1,5 @@
 # web scraping using Basic Javascript on Chrome console 
-1) Go to the assessment link you want to scrape
+1) Go to the https://prefeitura.pbh.gov.br/saude/licitacao/pregao-eletronico-151-2020  link you want to scrape
 2) Open the chrome console 
 3) Go to "Using Console" folder
 4) Execute the queries provided on "Assignment using CSS Selectors.js"
